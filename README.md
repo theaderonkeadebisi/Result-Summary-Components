@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/theaderonkeadebisi/Result-Summary-Components.git](https://your-solution-url.com)
-- Live Site URL: [https://theaderonkeadebisi.github.io/Result-Summary-Components/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/theaderonkeadebisi/Result-Summary-Components.git](https://github.com/theaderonkeadebisi/Result-Summary-Components.git)
+- Live Site URL: [https://theaderonkeadebisi.github.io/Result-Summary-Components/](https://theaderonkeadebisi.github.io/Result-Summary-Components/)
 
 ## My process
 
