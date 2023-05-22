@@ -102,6 +102,9 @@ button {
     width: 220px;
     cursor: pointer;
 }
+button:hover {
+    background-image: linear-gradient( hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+}
 
 /* Media Query */
 @media screen and (max-width: 480px) {
